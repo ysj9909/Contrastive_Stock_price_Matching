@@ -1,1 +1,1 @@
-# Contrastive_Stock_price_Matching
+# Contrastive_Stock_price_tendency_Matching
